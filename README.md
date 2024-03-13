@@ -11,6 +11,8 @@ PHP templating based off Dust.js by LinkedIn - This fork is maintained by [http:
 
 To install, simply require bloafer/dust-php in your composer.json like so:
 
+`composer require bloafer/dust-php`
+
 ```json
 {
     "require": {
